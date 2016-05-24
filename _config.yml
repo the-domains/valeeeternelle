@@ -1,5 +1,7 @@
-favicon: null
-name: valéeéternelle
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.2110634
 color:
   saturation: 0.4237379
   brandStrength: 0.2005823638755828
-  lightness: 0.7513427
+  rhythmicContrast: 0.2573726
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  rhythmicContrast: 0.2573726
-typography_spectrum: 0.4709989
-layout_spectrum: 0.2110634
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  lightness: 0.7513427
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+name: valéeéternelle
+typography_spectrum: 0.4709989
