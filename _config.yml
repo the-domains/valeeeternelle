@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
@@ -18,23 +15,26 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.2110634
+purpose: []
 color:
   saturation: 0.4237379
-  brandStrength: 0.2005823638755828
-  rhythmicContrast: 0.2573726
+  brandStrength: 0.5300752
+  lightness: 0.7513427
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  lightness: 0.7513427
-purpose: []
+  rhythmicContrast: 0.2573726
+typography_spectrum: 0.4709989
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: valéeéternelle
-typography_spectrum: 0.4709989
